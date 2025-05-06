@@ -2,6 +2,9 @@
 
 A web application that generates subtitles from audio files using OpenAI's Whisper model. The application supports multiple subtitle formats (SRT, VTT, ASS) and translation capabilities.
 
+## Live server
+🌐[Link](https://ai-subtitle-generator-mvpa.vercel.app/)
+
 ## Features
 
 - Audio file upload and processing
